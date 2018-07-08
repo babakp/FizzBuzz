@@ -1,0 +1,8 @@
+C:\Users\admin\Desktop\coding-chalange\FizzBuzz\FizzBuzz\GenerateFizzBuzz\bin\Debug\GenerateFizzBuzz.exe.config
+C:\Users\admin\Desktop\coding-chalange\FizzBuzz\FizzBuzz\GenerateFizzBuzz\bin\Debug\GenerateFizzBuzz.exe
+C:\Users\admin\Desktop\coding-chalange\FizzBuzz\FizzBuzz\GenerateFizzBuzz\bin\Debug\GenerateFizzBuzz.pdb
+C:\Users\admin\Desktop\coding-chalange\FizzBuzz\FizzBuzz\GenerateFizzBuzz\bin\Debug\FizzBuzzLibrary.dll
+C:\Users\admin\Desktop\coding-chalange\FizzBuzz\FizzBuzz\GenerateFizzBuzz\bin\Debug\FizzBuzzLibrary.pdb
+C:\Users\admin\Desktop\coding-chalange\FizzBuzz\FizzBuzz\GenerateFizzBuzz\obj\Debug\GenerateFizzBuzz.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\coding-chalange\FizzBuzz\FizzBuzz\GenerateFizzBuzz\obj\Debug\GenerateFizzBuzz.exe
+C:\Users\admin\Desktop\coding-chalange\FizzBuzz\FizzBuzz\GenerateFizzBuzz\obj\Debug\GenerateFizzBuzz.pdb
