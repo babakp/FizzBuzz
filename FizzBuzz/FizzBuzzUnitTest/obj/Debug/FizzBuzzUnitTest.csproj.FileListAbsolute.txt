@@ -1,8 +1,0 @@
-C:\Users\admin\Desktop\coding-chalange\FizzBuzz\FizzBuzz\FizzBuzzUnitTest\bin\Debug\FizzBuzzUnitTest.dll
-C:\Users\admin\Desktop\coding-chalange\FizzBuzz\FizzBuzz\FizzBuzzUnitTest\bin\Debug\FizzBuzzUnitTest.pdb
-C:\Users\admin\Desktop\coding-chalange\FizzBuzz\FizzBuzz\FizzBuzzUnitTest\bin\Debug\FizzBuzzLibrary.dll
-C:\Users\admin\Desktop\coding-chalange\FizzBuzz\FizzBuzz\FizzBuzzUnitTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
-C:\Users\admin\Desktop\coding-chalange\FizzBuzz\FizzBuzz\FizzBuzzUnitTest\bin\Debug\FizzBuzzLibrary.pdb
-C:\Users\admin\Desktop\coding-chalange\FizzBuzz\FizzBuzz\FizzBuzzUnitTest\obj\Debug\FizzBuzzUnitTest.csprojResolveAssemblyReference.cache
-C:\Users\admin\Desktop\coding-chalange\FizzBuzz\FizzBuzz\FizzBuzzUnitTest\obj\Debug\FizzBuzzUnitTest.dll
-C:\Users\admin\Desktop\coding-chalange\FizzBuzz\FizzBuzz\FizzBuzzUnitTest\obj\Debug\FizzBuzzUnitTest.pdb
