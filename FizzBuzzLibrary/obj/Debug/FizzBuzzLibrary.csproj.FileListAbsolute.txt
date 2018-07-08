@@ -1,0 +1,4 @@
+C:\Users\admin\Desktop\coding-chalange\FizzBuzz\FizzBuzz\FizzBuzzLibrary\bin\Debug\FizzBuzzLibrary.dll
+C:\Users\admin\Desktop\coding-chalange\FizzBuzz\FizzBuzz\FizzBuzzLibrary\bin\Debug\FizzBuzzLibrary.pdb
+C:\Users\admin\Desktop\coding-chalange\FizzBuzz\FizzBuzz\FizzBuzzLibrary\obj\Debug\FizzBuzzLibrary.dll
+C:\Users\admin\Desktop\coding-chalange\FizzBuzz\FizzBuzz\FizzBuzzLibrary\obj\Debug\FizzBuzzLibrary.pdb
